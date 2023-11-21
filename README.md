@@ -53,4 +53,5 @@ python Problema_1.py
 
 ### Problema 2
 
-TODO
+`python Problema_2_A.py`
+`python Problema_2_B.py`
